@@ -1,4 +1,5 @@
-### Hi there 👋
+https://github.com/james-geiger/james-geiger/blob/main/header.png?raw=true
+
 
 <!--
 **james-geiger/james-geiger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
