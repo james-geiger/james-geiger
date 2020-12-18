@@ -1,7 +1,5 @@
-![](https://github.com/james-geiger/james-geiger/blob/main/header.png?raw=true)
-
-Hey Folks, I'm
-## james geiger 👨‍💻📈
+<p style="margin-bottom: .5rem;">Hey Folks, I'm</p>
+<h2 style="margin-top: 0;">james geiger 👨‍💻📈</h2>
 
 <!--
 **james-geiger/james-geiger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
