@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <!--
 I'm the **Manager of Research Analytics** at the University of Nebraska Medical Center. I thrive at the intersection of data, technology, and impactful research—helping teams unlock the power of analytics to drive discoveries and innovation.
 -->
----
 
 ## 🚀 About Me
 
@@ -31,8 +30,6 @@ I'm the **Manager of Research Analytics** at the University of Nebraska Medical 
   - Building powerful analytics and reporting solutions
   - Enabling research teams with data-driven insights
   - Open source technology & collaborative problem-solving
-
----
 
 ## 🌐 Connect with Me
 
@@ -52,8 +49,6 @@ I'm the **Manager of Research Analytics** at the University of Nebraska Medical 
 - [UNMC Research Dashboard](https://github.com/james-geiger/unmc-research-dashboard)  
   Real-time dashboards for research analytics at UNMC.
   -->
-
----
 
 ## 📝 Recent Activity
 
