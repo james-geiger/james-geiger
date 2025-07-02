@@ -56,13 +56,9 @@ I'm the **Manager of Research Analytics** at the University of Nebraska Medical 
 ![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=james-geiger&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=james-geiger&layout=compact)
 
----
 
 ## 💬 Let's Collaborate!
 
 I'm always open to connecting with fellow data enthusiasts, researchers, and developers.  
 Feel free to reach out for collaborations, questions, or just to chat about all things data and tech!
 
----
-
-> _"Turning data into insights, and insights into impact."_
